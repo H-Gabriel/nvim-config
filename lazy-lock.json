@@ -4,9 +4,11 @@
   "lazy.nvim": { "branch": "main", "commit": "4496b4cad69a862199bb3ad452d3c4988bb925a1" },
   "mason-lspconfig.nvim": { "branch": "main", "commit": "58bc9119ca273c0ce5a66fad1927ef0f617bd81b" },
   "mason.nvim": { "branch": "main", "commit": "e2f7f9044ec30067bc11800a9e266664b88cda22" },
+  "nvim": { "branch": "main", "commit": "07f1ee861394c163d1f1d3e1926eb309e0c81027" },
   "nvim-cmp": { "branch": "main", "commit": "d818fd0624205b34e14888358037fb6f5dc51234" },
   "nvim-lspconfig": { "branch": "master", "commit": "3cceca5a79b66d735cbacbf05fa0bce5f8b716ca" },
   "nvim-treesitter": { "branch": "master", "commit": "96c5cb23342db3e51994680781da54b45d7e0c9b" },
   "plenary.nvim": { "branch": "master", "commit": "a3e3bc82a3f95c5ed0d7201546d5d2c19b20d683" },
-  "telescope.nvim": { "branch": "master", "commit": "bc4e7e450397970ab741d0f489e370ec4ce4d57c" }
+  "telescope.nvim": { "branch": "master", "commit": "bc4e7e450397970ab741d0f489e370ec4ce4d57c" },
+  "themery.nvim": { "branch": "main", "commit": "f745a49d9c103babde35e1111b91faa6bc591d5c" }
 }
